@@ -1,4 +1,6 @@
-# To Run: Download zip file on github, navigate to index.html with a browser (preferably Chrome), the application will then begin to run.
+# To Run: 
+
+Download zip file on github, navigate to index.html with a browser (preferably Chrome), the application will then begin to run.
 
 # Project Overview
 
